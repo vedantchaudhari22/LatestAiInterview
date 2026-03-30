@@ -6,8 +6,6 @@ import {
   getDocs,
   query,
   where,
-  orderBy,
-  limit,
 } from "firebase/firestore";
 import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
