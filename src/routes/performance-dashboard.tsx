@@ -16,7 +16,7 @@ import { Card, CardContent, CardDescription, CardTitle } from "@/components/ui/c
 import { Separator } from "@/components/ui/separator";
 import {
   ArrowLeft,
-  BarChart3,
+  BarChart3, 
   Trophy,
   Target,
   MessageSquare,
